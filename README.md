@@ -12,4 +12,4 @@ CAUTION: THIS SCRIPT WILL ONLY MERGE THE FILES IN THE FIRST LEVEL OF A DIRECTORY
 example : if you have 3 pdf files in root directory and 4  files inside a directory inside the root directory, it will merge the 3 files as one in the root directory. It will merge the other 4 files in a separate merge file in that other directory. one result file per directory.
   
   
-  ATTENTION : IF YOU USE THIS SCRIPT AND MUCK SOMETHING UP, I WILL TAKE NO RESPONSIBILITIES. THE CONSEQUENCES OF USING IT ARE YOU AND YOU ALONE.
+  ATTENTION : IF YOU USE THIS SCRIPT AND MUCK SOMETHING UP, I WILL TAKE NO RESPONSIBILITIES. THE CONSEQUENCES OF USING IT ARE YOURS AND YOURS ALONE.
