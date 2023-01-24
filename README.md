@@ -5,7 +5,7 @@ HOW TO USE -
 
 put the file in the root directory where your pdf files are and run the script
 
-if you have a bunch of other directories, the script will look inside them, merge those files and output a result.pdf
+if you have a bunch of other directories, the script will look inside them, merge those files and output a <name-of-directory-where-files-are>.pdf
 
 CAUTION: THIS SCRIPT WILL ONLY MERGE THE FILES INSIDE A DIRECTORY. IT WILL NOT NOT MERGE FILES THAT ARE AT DIFFERENT LEVELS
 
