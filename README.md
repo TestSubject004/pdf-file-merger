@@ -13,6 +13,6 @@ example : if you have 3 pdf files in root directory and 4  files inside a direct
 
   
   
-NOTE: don't keep anything other than your pdf files in a dir. if you do, the script requires modification
+
   
-  ATTENTION : IF YOU USE THIS SCRIPT AND MUCK SOMETHING UP, I WILL TAKE NO RESPONSIBILITIES. THE CONSEQUENCES OF USING IT ARE YOURS AND YOURS ALONE.
+ATTENTION : IF YOU USE THIS SCRIPT AND MUCK SOMETHING UP, I WILL TAKE NO RESPONSIBILITIES. THE CONSEQUENCES OF USING IT ARE YOURS AND YOURS ALONE.
