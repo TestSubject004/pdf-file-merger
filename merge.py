@@ -33,7 +33,7 @@ for dir in dirList:
        
         print (filename)
     
-    merger.write("result.pdf")
+    merger.write(f"{os.path.basename(dir)}.pdf")
     merger.close()
     print("--------------------------")
    
